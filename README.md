@@ -21,3 +21,6 @@ Below is a screenshot of the GUI used to test the model:
 <img src="Screenshot (2099).png" alt="Sample Image">
 <img src="Screenshot (2100).png" alt="Sample Image">
 <img src="Screenshot (2101).png" alt="Sample Image">
+
+## Flask-API Preview
+<img src="Screenshot (2102).png" alt="Sample Image">
