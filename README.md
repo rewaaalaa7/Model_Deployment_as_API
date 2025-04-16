@@ -17,4 +17,7 @@ The application receives iris flower features (sepal length, sepal width, petal 
 
 Below is a screenshot of the GUI used to test the model:
 
-![Flet GUI Preview](assets/gui_screenshot.png)
+![Flet GUI Preview]
+<img src="Screenshot (2099).png" alt="Sample Image">
+<img src="Screenshot (2100).png" alt="Sample Image">
+<img src="Screenshot (2101).png" alt="Sample Image">
